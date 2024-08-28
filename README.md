@@ -10,10 +10,7 @@ The study aims to decarbonize concrete manufacturing by utilizing natural resour
 
 - `data/`: Contains the dataset used for training and testing the machine learning models.
 - `notebooks/`: Jupyter notebooks with the code for data preprocessing, model training, and evaluation.
-- `scripts/`: Python scripts for running the models and generating results.
 - `results/`: Contains the output files, including model predictions and SHAP/PDP visualizations.
-- `docs/`: Documentation and additional resources related to the project.
-
 ## Requirements
 
 To run the code in this repository, you will need to install the following dependencies:
