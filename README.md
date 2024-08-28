@@ -1,7 +1,7 @@
 # Hybrid-Machine-Learning-Prediction-of-Concrete-Properties-including-SHAP-PDP-analysis
 
 <p align="center">
-  <img src="image.png" alt="NFRAC Workflow">
+  <img src="Drawing2.png" alt="NFRAC Workflow">
 </p>
 
 The following codes provide prediction of concrete compressive strength using hybrid machine learning models with SHAP and PDP analysis
