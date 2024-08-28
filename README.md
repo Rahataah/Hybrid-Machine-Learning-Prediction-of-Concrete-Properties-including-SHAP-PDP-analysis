@@ -1,7 +1,7 @@
 # Hybrid-Machine-Learning-Prediction-of-Concrete-Properties-including-SHAP-PDP-analysis
-
+<p align="center">
 ![NFRAC Workflow](image.png)
-
+</p>
 The following codes provide prediction of concrete compressive strength using hybrid machine learning models with SHAP and PDP analysis
 
 This repository contains the code, data, and documentation for the research article titled **"Hybrid Machine Learning Based Prediction of Compressive Strength of Natural Fiber Recycled Aggregate Concrete: Incorporating SHAP and PDP Analysis."** The study focuses on using hybrid machine learning models to predict the compressive strength of concrete that incorporates natural fibers and recycled aggregates, contributing to sustainable construction practices.
