@@ -1,7 +1,7 @@
+setuptools>=70.0.0  # Ensure a recent version
 catboost==1.2.7
 lightgbm==4.6.0
-numpy==2.2.3
+numpy==1.26.4
 pandas==2.2.3
 scikit-learn==1.2.0
-streamlit==1.42.2
-xgboost==2.1.4
+streamlit==1.36.0
